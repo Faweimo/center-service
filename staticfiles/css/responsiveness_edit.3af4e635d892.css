@@ -1,0 +1,26 @@
+@media (max-width: 668px){
+    .section-intro .container{
+    display: none;
+}
+}
+
+@media (max-width: 770px){
+    .section-intro .container{
+    max-width: 97%; 
+}
+
+
+}
+
+
+
+.carousel-item {
+    position: relative;
+    display: none;
+    align-items: center;
+    width: 100%;
+    backface-visibility: hidden;
+    perspective: 1000px;
+    max-height: 231px;
+}
+

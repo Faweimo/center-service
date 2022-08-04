@@ -1,0 +1,21 @@
+body{
+    background-color: #b8776c;
+}
+div.carousel-item {
+    position: relative;
+    display: none;
+    align-items: center;
+    width: 105%;
+    backface-visibility: hidden;
+    perspective: 2084px;
+    max-height: 433px;
+}
+
+div.carousel-item video {
+    width: 1168px;
+    height: 638px;
+}
+
+.header-main {
+    background-color: #b52626;
+}

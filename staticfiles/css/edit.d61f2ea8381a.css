@@ -1,0 +1,10 @@
+.btn-primary {
+    color: #fff;
+    background-color: #a32920;
+    border-color: #a32920;
+}
+
+.btn-outline-primary {
+    color: #a32920;
+    border-color: #a32920;
+}
